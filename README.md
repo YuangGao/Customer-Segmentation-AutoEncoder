@@ -1,1 +1,1 @@
-# Customer-Segmentation-Autoencoder
+# Customer-Segmentation-AutoEncoder
